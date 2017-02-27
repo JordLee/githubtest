@@ -12,6 +12,13 @@ for i = 1: numbOfClass
 
 %     version_control test
 % branch1 commit1
+
+%  test commit2
+%  test commit2
+%  test commit2
+%  test commit2
+%  test commit2
+
      end
 end
 end

@@ -11,14 +11,16 @@ for i = 1: numbOfClass
 %      timeTotal=time(j)+timeTotal;
 
 %     version_control test
-% branch1 commit1
-
 %  test commit2
 %  test commit2
 %  test commit2
 %  test commit2
 %  test commit2
 
+
+% test commit 3
+% test commit 3
+% test commit 3
      end
 end
 end
